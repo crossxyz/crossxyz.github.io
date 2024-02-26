@@ -246,6 +246,27 @@
   </url>
   
   <url>
+    <loc>https://www.xml.wiki/tags/BT-PT/</loc>
+    <lastmod>2024-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xml.wiki/tags/%E4%BB%A3%E7%90%86/</loc>
+    <lastmod>2024-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xml.wiki/tags/dae/</loc>
+    <lastmod>2024-02-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xml.wiki/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
     <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -274,13 +295,6 @@
   </url>
   
   <url>
-    <loc>https://www.xml.wiki/tags/BT-PT/</loc>
-    <lastmod>2024-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://www.xml.wiki/tags/Sshwifty/</loc>
     <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
@@ -288,14 +302,7 @@
   </url>
   
   <url>
-    <loc>https://www.xml.wiki/tags/%E4%BB%A3%E7%90%86/</loc>
-    <lastmod>2024-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xml.wiki/tags/dae/</loc>
+    <loc>https://www.xml.wiki/tags/websocket/</loc>
     <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -303,13 +310,6 @@
   
   <url>
     <loc>https://www.xml.wiki/tags/%E5%85%8D%E8%B4%B9/</loc>
-    <lastmod>2024-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xml.wiki/tags/websocket/</loc>
     <lastmod>2024-02-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
