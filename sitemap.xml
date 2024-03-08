@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://www.xml.wiki/p/24308/</loc>
+    
+    <lastmod>2024-03-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.xml.wiki/p/24112/</loc>
     
     <lastmod>2024-02-26</lastmod>
@@ -211,7 +220,7 @@
 
   <url>
     <loc>https://www.xml.wiki/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -219,147 +228,168 @@
   
   <url>
     <loc>https://www.xml.wiki/tags/Onecloud/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/%E7%8E%A9%E5%AE%A2%E4%BA%91/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/%E7%9B%B4%E6%92%AD/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/Cloudflare/</loc>
-    <lastmod>2024-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xml.wiki/tags/BT-PT/</loc>
-    <lastmod>2024-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xml.wiki/tags/%E4%BB%A3%E7%90%86/</loc>
-    <lastmod>2024-02-26</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.xml.wiki/tags/dae/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/%E8%BF%9C%E7%A8%8BSSH/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/Nat/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/VPS/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xml.wiki/tags/BT-PT/</loc>
+    <lastmod>2024-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xml.wiki/tags/%E4%BB%A3%E7%90%86/</loc>
+    <lastmod>2024-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xml.wiki/tags/dae/</loc>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/Sshwifty/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/websocket/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/%E5%85%8D%E8%B4%B9/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/Paypal/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/Alpine/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xml.wiki/tags/Gemini/</loc>
+    <lastmod>2024-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xml.wiki/tags/ChatGPT/</loc>
+    <lastmod>2024-03-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.xml.wiki/tags/AI/</loc>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/systemd/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/Linux/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/HNet/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/%E8%BD%AF%E8%B7%AF%E7%94%B1/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://www.xml.wiki/tags/Docker/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -368,7 +398,7 @@
   
   <url>
     <loc>https://www.xml.wiki/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2024-02-26</lastmod>
+    <lastmod>2024-03-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
